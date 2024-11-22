@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pydantic
+transformers
+torch
+chardet
+sentencepiece
+sacremoses
+langchain
+langchain_community
